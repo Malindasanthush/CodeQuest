@@ -23,7 +23,7 @@ CodeQuest is an interactive web-based quiz application designed to help users te
 i. Clone the git repo
 
 ```
-https://github.com/AAdewunmi/Quiz-App-Project.git
+https://github.com/Malindasanthush/Quiz-App.git
 ```
 
 ii. Open project folder
