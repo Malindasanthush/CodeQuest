@@ -94,31 +94,26 @@
         <button class="btn btn-primary mx-2 restart">Continue</button>
     </div>
 </div>
-<div id="quiz-container" class="quiz-box container mt-5">
-    <div class="row justify-content-center">
-        <div class="col-lg-6 col-md-8 col-sm-12">
-            <div class="question-box text-center">
-                <h3 id="question-number"></h3>
-                <p id="question" style="font-weight: 600;"></p>
-            </div>
-            <div class="answers d-grid gap-2 mt-3">
-                <button class="answer-btn " data-answer="1" style="font-weight: 400;"></button>
-                <button class="answer-btn " data-answer="2" style="font-weight: 400;"></button>
-                <button class="answer-btn  " data-answer="3" style="font-weight: 400;"></button>
-                <button class="answer-btn  " data-answer="4" style="font-weight: 400;"></button>
-            </div>
-            <p id="timer" class="text-center mt-3">Time Left: 30s</p>
-            <button id="next-question" class="btn btn-primary mt-4 w-100" style="display: none;">Next</button>
-        </div>
+<div id="quiz-container" class="quiz-box container mt-5" style="display: none;">
+    <div class="question-box">
+        <h3 id="question-number"></h3>
+        <p id="question" style="font-weight: 600;"></p>
     </div>
+    <div class="answers">
+        <button class="answer-btn" data-answer="1" style="font-weight: 400; "></button>
+        <button class="answer-btn" data-answer="2" style="font-weight: 400;"></button>
+        <button class="answer-btn" data-answer="3" style="font-weight: 400;"></button>
+        <button class="answer-btn" data-answer="4" style="font-weight: 400;"></button>
+    </div>
+    <p id="timer" >Time Left: 30s</p>
+    <button id="next-question" class="btn btn-primary mt-4" style="display: none; width:100%;">Next</button>
 </div>
 
 <div id="result-container" class="container mt-5 text-center" style="display: none;">
     <h1 style="font-weight: bold;">Result 🏆</h1><br><br>
     <h2 id="result-message"></h2>
-    <button id="exit-btn" class="btn btn-primary mt-4" style="width: 100%; max-width: 300px;">Exit</button>
+    <button id="exit-btn" class="btn btn-primary mt-4" style="width: 40%;">Exit</button>
 </div>
-
 
 <!-- Bootstrap JS -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
