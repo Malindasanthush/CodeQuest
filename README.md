@@ -40,7 +40,7 @@ iii. Explore
 i. Run index.html on live server in VSCode
 
 
-## 5. Demo
+## 5. Preview:
 
 <img width="1678" alt="Screenshot 2023-08-11 at 08 13 18" src="https://github.com/user-attachments/assets/b9329957-d695-4281-96db-762db4ec7faf">
 
