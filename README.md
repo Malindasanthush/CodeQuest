@@ -1,18 +1,18 @@
 
 
-# Project Title:
+## 1.Project Title:
 
  CodeQuest - Interactive Programming Language Quiz
 
 
-## 1. Project Description: 
+## 2. Project Description: 
 
 Quiz App Project 
 
 CodeQuest is an interactive web-based quiz application designed to help users test their knowledge of various programming languages. It features multiple categories, including Java, JavaScript, Python, and more. Users select a category and answer timed questions, with points awarded for correct answers. Built with HTML, CSS, JavaScript, and Bootstrap, this app offers a user-friendly experience with engaging visuals and real-time feedback.
 
 
-## 2. Tech Stack: 
+## 3. Tech Stack: 
 
 - HTML 
 - CSS 
@@ -20,7 +20,7 @@ CodeQuest is an interactive web-based quiz application designed to help users te
 - IDE: VSCode
 
 
-## 3. Installation:
+## 4. Installation:
 
 i. Clone the git repo
 
@@ -35,12 +35,12 @@ iii. Explore
 😎
 
 
-## 4. How To Use:
+## 5. How To Use:
 
 i. Run index.html on live server in VSCode
 
 
-## 5. Preview:
+## 6. Preview:
 
 <img width="1678" alt="Screenshot 2023-08-11 at 08 13 18" src="https://github.com/user-attachments/assets/b9329957-d695-4281-96db-762db4ec7faf">
 
